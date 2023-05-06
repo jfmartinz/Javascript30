@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Drum Kit</title>
+    <link rel="stylesheet" href="drum.css">
+    <link rel="icon" type="image/png" href="path/to/favicon.png">
+</head>
+<body>
+    <div id="drum-kit">
+        <div data-key="65" class="drum-pad">
+          <kbd>A</kbd>
+          <span class="sound-name">clap</span>
+          <audio data-key="65" src="sounds/clap.wav"></audio>
+        </div>
+        <div data-key="83" class="drum-pad">
+          <kbd>S</kbd>
+          <span class="sound-name">hihat</span>
+          <audio data-key="83" src="sounds/hihat.wav"></audio>
+        </div>
+        <div data-key="68" class="drum-pad">
+          <kbd>D</kbd>
+          <span class="sound-name">kick</span>
+          <audio data-key="68" src="sounds/kick.wav"></audio>
+        </div>
+        <div data-key="70" class="drum-pad">
+          <kbd>F</kbd>
+          <span class="sound-name">openhat</span>
+          <audio data-key="70" src="sounds/openhat.wav"></audio>
+        </div>
+        <div data-key="71" class="drum-pad">
+          <kbd>G</kbd>
+          <span class="sound-name">boom</span>
+          <audio data-key="71" src="sounds/boom.wav"></audio>
+        </div>
+        <div data-key="72" class="drum-pad">
+          <kbd>H</kbd>
+          <span class="sound-name">ride</span>
+          <audio data-key="72" src="sounds/ride.wav"></audio>
+        </div>
+        <div data-key="74" class="drum-pad">
+          <kbd>J</kbd>
+          <span class="sound-name">snare</span>
+          <audio data-key="74" src="sounds/snare.wav"></audio>
+        </div>
+        <div data-key="75" class="drum-pad">
+          <kbd>K</kbd>
+          <span class="sound-name">tom</span>
+          <audio data-key="75" src="sounds/tom.wav"></audio>
+        </div>
+        <div data-key="76" class="drum-pad">
+          <kbd>L</kbd>
+          <span class="sound-name">tink</span>
+          <audio data-key="76" src="sounds/tink.wav"></audio>
+        </div>
+      </div>
+      <div id="instructions">
+        <h2>Instructions:</h2>
+        <p>Use your keyboard to play the drum kit. Press the corresponding letter key to play each sound.</p>
+      </div>
+      <script type="text/javascript" src="drumKit.js"></script>
+</body>
+</html>
