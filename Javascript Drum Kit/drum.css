@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #drum-kit {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+
+  }
+  
+  .drum-pad {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10em;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .drum-pad:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px #aaa;
+  }
+
+
+  kbd {
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
+  
+  .sound-name {
+    font-size: 1rem;
+    text-transform: capitalize;
+    opacity: 0.5;
+  }
+  
+  #instructions {
+    position: absolute;
+   top: 0;
+    left: 0;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+ 
+  }
+  
+  #instructions h2 {
+    margin-top: 0;
+  }
+  
+  #instructions p {
+    margin-bottom: 0;
+  }
