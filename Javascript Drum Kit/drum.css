@@ -6,7 +6,6 @@ body {
     margin: 0 5%;
     font-family: 'Roboto', sans-serif;  
     overflow-y: auto;
-    
   }
 
   #drum-kit {
@@ -25,18 +24,14 @@ body {
     align-items: center;
     flex:1 1 100px  ;
     height: 100px;
-    margin-left: 10px;
-    margin-top: 10px;
+    margin-left: 1em;
+    margin-top: 1em;
     border: 2px solid #ccc;
     border-radius: 10px;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out;
+    transition: all 0.09s;
   }
   
-  .drum-pad:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 10px #aaa;
-  }
+  
 
 
   kbd {
@@ -72,6 +67,11 @@ body {
     margin-bottom: 0;
   }
 
+/*when clicked this is the styles applied to drum-pad  */
+  .playing{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 10px #aaa;
+  }
 
   @media (max-width: 1200px) {
     .drum-pad{
