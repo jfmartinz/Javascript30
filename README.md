@@ -16,6 +16,12 @@ Below is a list of the challenges I have completed so far:
 1. [Day 1: JavaScript Drum Kit](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)
 
 ---
+## Learnings and Insights
+
+```
+Under Construction 🚧
+```
+---
 
 ## Conclusion
 
