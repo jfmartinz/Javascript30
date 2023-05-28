@@ -1,4 +1,3 @@
-# 30 days of Vanilla Javascript by Wes Bos 💫
 ![image](https://github.com/jfmartinz/javascript30/assets/129386460/b915ab47-14e2-4f27-882c-f6fa99404926)
 This repository contains my solutions to the JavaScript 30 coding challenges by Wes Bos. Each challenge focuses on a specific JavaScript topic and helps to improve coding skills by building real projects.
 
