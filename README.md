@@ -9,7 +9,7 @@ JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 
 ## Challenges Completed
 
 Below is a list of the challenges I have completed so far:
-1. Challenge 1: Javascript Drum Kit 🥁<br> 
+1. **Javascript Drum Kit - Day 1** 🥁<br> 
 Description: Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
 
     -  Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
