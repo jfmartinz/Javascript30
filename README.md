@@ -12,11 +12,11 @@ Below is a list of the challenges I have completed so far:
 1. Challenge 1: Javascript Drum Kit 🥁<br> 
 Description: Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
 
- - Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)
-- Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
+    -  Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
+    -  Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
 
 ---
-## Learnings & Problems
+## Learnings & Challenges
 ```
 Under Construction 🚧
 ```
