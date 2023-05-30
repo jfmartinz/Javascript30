@@ -1,8 +1,31 @@
-# 30 Days of Vanilla JavaScript 💫
+![image](https://github.com/jfmartinz/javascript30/assets/129386460/b915ab47-14e2-4f27-882c-f6fa99404926)
+This repository contains my solutions to the JavaScript 30 coding challenges by Wes Bos. Each challenge focuses on a specific JavaScript topic and helps to improve coding skills by building real projects.
 
-This repository contains my progress and solutions for the "30 Days of Vanilla JavaScript" challenge by Wes Bos. In this challenge, I aim to improve my JavaScript skills by building 30 different projects using only vanilla JavaScript(no libraries or frameworks). <br>
+JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 days of hands-on coding challenges that cover a wide range of JavaScript topics and techniques. The challenges are designed to be completed within 30 days, with each day dedicated to a new project. 
+<a href="https://javascript30.com" target="_blank">--> Go to the Course</a>
 
-I enrolled in this course to deepen my understanding and become familiar with working in JavaScript. My goal is to build interactive and functional websites, and I believe that JavaScript30 will provide me with the necessary knowledge and skills to achieve that. By completing the course's projects and gaining hands-on experience, I aim to enhance my proficiency in JavaScript programming, enabling me to create dynamic web pages and applications.
+---
 
-**Link:** https://javascript30.com/
+## Challenges Completed
+
+Below is a list of the challenges I have completed so far:
+1. Challenge 1: Javascript Drum Kit 🥁<br> 
+Description: Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
+
+ - Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)
+- Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
+
+---
+## Learnings & Problems
+```
+Under Construction 🚧
+```
+---
+
+## Conclusion
+
+```
+Under Construction 🚧
+```
+
 
