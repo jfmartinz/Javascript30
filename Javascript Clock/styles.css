@@ -31,7 +31,7 @@ body {
     left: 50%;
     background-color: #000;
     transform: translateX(-50%);
-    transform-origin: 100%;
+    transform-origin: bottom;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -54,6 +54,7 @@ body {
     background-color: #000;
 }
 
+/* Styling for the markers each side top, bottom, right, and left */
 .marker{
     position: relative;
     width: 100%;
@@ -64,8 +65,6 @@ body {
     font-weight: 500;
 }
 
-
-/* Styling for the markers each side top, bottom, right, and left */
 
 .marker12{
     top:8px;
