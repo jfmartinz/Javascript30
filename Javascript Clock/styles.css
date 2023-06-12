@@ -34,7 +34,6 @@ body {
     transform-origin: bottom;
     border-radius: 10px;
     border-radius: 10px;
-    transition: all ease-in-out 0.05s;
     transition-timing-function: cubic-bezier(0, 2.83, 1, 2.17);
 }
 
