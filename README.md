@@ -15,6 +15,11 @@ Description: Create a virtual drum kit that plays different sounds when correspo
     -  Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
     -  Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
 
+2. **CSS + JS Clock - Day 2** ⏰<br>
+   Description: Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent the time.
+
+    - Solution --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
+    - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
 ---
 ## Learnings & Challenges
 ```
