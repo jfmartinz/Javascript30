@@ -21,6 +21,15 @@ Description: Create a virtual drum kit that plays different sounds when correspo
     - Solution --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
 ---
+
+3. **CSS Variable - Day 3** 📊<br>
+   Description: Create an interactive interface using CSS variables and JavaScript. Utilize JavaScript to capture user input from various elements such as sliders or color pickers and dynamically update CSS variable values. 
+
+    - Solution --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/CSS%20Variables)<br>
+    - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/wvQGrWy)
+---
+
+
 ## Learnings & Challenges
 ```
 Under Construction 🚧
