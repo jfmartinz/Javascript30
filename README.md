@@ -34,7 +34,7 @@ Description: Create a virtual drum kit that plays different sounds when correspo
 ---
 
 
-## Learnings & Challenges
+## Insights
 ```
 Under Construction 🚧
 ```
