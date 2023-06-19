@@ -16,20 +16,20 @@ Below is a list of the challenges I have completed so far:
 1. **Javascript Drum Kit - Day 1** 🥁<br> 
 Description: Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
 
-    -  Solution -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
+    -  Solution & Explanation -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
     -  Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
 
 2. **CSS + JS Clock - Day 2** ⏰<br>
    Description: Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent the time.
 
-    - Solution --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
 ---
 
 3. **CSS Variable - Day 3** 📊<br>
    Description: Create an interactive interface using CSS variables and JavaScript. Utilize JavaScript to capture user input from various elements such as sliders or color pickers and dynamically update CSS variable values. 
 
-    - Solution --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/CSS%20Variables)<br>
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/CSS%20Variables)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/wvQGrWy)
 ---
 
