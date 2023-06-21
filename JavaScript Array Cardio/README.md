@@ -6,7 +6,7 @@ The `map()` method is used to create a new array by applying a provided function
 
 > Problem:  Give us an array of the inventors first and last names
 
-#### `Syntax:`
+#### Syntax:
 ```js
  const fullNames = inventors.map(inventor => `${inventor.first}  ${inventor.last}`);
  console.table(fullNames)
@@ -46,7 +46,7 @@ Finally, the code uses the `console.table()` method to print the `fullNames` arr
 
 > Problem:  How many years did all the inventors live all together?
 
-#### `syntax:`
+#### syntax:
 ```js
   const totalYearsLived = inventors.reduce((total, inventor) => {
     return total + (inventor.passed - inventor.year);
@@ -91,7 +91,7 @@ The `filter()` method creates a new array by filtering out elements from the ori
 
   > Problem: Filter the list of inventors for those who were born in the 1800's to 1900's 
 
-#### `syntax:`
+#### syntax:
 ```javascript
   const dateOfBirth = inventors.filter(function(inventor){
      if(inventor.year >= 1800 && inventor.year<=1900){
@@ -144,7 +144,7 @@ Lastly, the `sort()` method arranges the elements of an array in ascending order
 > Problem:  Sort the inventors by birth date, oldest to youngest
 
 
-#### `syntax:`
+#### syntax:
 
 ```js
    const oldestToYoung = inventors.sort(function(firstPerson,secondPerson){
