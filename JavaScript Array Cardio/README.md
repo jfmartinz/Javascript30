@@ -41,7 +41,6 @@ Finally, the code uses the `console.table()` method to print the `fullNames` arr
 </details>
 
 ---
-<br>
 
  The `reduce()` method allows you to reduce an array to a single value. By using a callback function, it iterates through the array and accumulates a value based on the provided logic. The final result is a single value.
 
@@ -86,7 +85,6 @@ Finally, the code uses the `console.log()` method to print the `totalYearsLived`
 </details>
 
 ---
-<br>
 
 
 The `filter()` method creates a new array by filtering out elements from the original array based on a specified condition. It uses a callback function that should return `true` for elements to be included in the new array, and `false` for elements to be excluded.
@@ -140,10 +138,6 @@ After the `filter()` method has finished iterating through the `inventors` array
 </details>
 
 ---
-<br>
-
-
- 
 
 Lastly, the `sort()` method arranges the elements of an array in ascending order by default. It modifies the original array, but you can create a copy before applying the method if you want to preserve the original.
 
