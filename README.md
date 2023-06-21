@@ -26,13 +26,18 @@ Description: Create a virtual drum kit that plays different sounds when correspo
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
 ---
 
+
 3. **CSS Variable - Day 3** 📊<br>
    Description: Create an interactive interface using CSS variables and JavaScript. Utilize JavaScript to capture user input from various elements such as sliders or color pickers and dynamically update CSS variable values. 
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/CSS%20Variables)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/wvQGrWy)
 ---
+4. **JS Array Cardio - Day 4** 💪<br>
+   Description: Day 4 introduces functional programming in JavaScript, covering essential functions such as `reduce()`, `map()`, `filter()`, and `sort()`.
 
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/JavaScript%20Array%20Cardio)<br>
+---
 
 ## Insights
 ```
