@@ -1,4 +1,4 @@
-# Drum Kit 🥁
+# **Day 1: Drum Kit** 🥁
 
 This project implements a drum kit where different sounds are played when corresponding keys are pressed. It consists of the following components:
 

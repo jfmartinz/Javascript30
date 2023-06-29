@@ -1,4 +1,4 @@
-# Javascript Clock ⏰
+# **Day 2: Javascript Clock** ⏰
 
  The following code demonstrates how to create a clock using JavaScript and CSS.<br> Here's the explanation: 
 

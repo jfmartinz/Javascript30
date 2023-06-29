@@ -1,4 +1,4 @@
-# CSS Variables 📊
+# **Day 3: CSS Variables** 📊
 
 The following code demonstrates how to create an interactive app that instantly updates its appearance as the user modifies the input values.<br> Here's the explanation:
 

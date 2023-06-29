@@ -1,4 +1,5 @@
-# Javascript Array Cardio 💪
+# **Day 4: Javascript Array Cardio** 💪
+
 
 In Day 4 of his course, Wes Bos focused on essential concepts in functional programming using JavaScript. He introduced important array methods like `map()`, `reduce()`, `filter()`, and `sort()`.
 
