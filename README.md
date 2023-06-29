@@ -38,7 +38,13 @@ Description: Create a virtual drum kit that plays different sounds when correspo
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/JavaScript%20Array%20Cardio)<br>
 ---
+5. **Flex Panel Gallery - Day 5** 🖼️<br>
+   Description: Create an interactive gallery with expanding panels using CSS transitions and JavaScript event handling. Clicking on a panel smoothly expands or collapses it, while applying visual effects to enhance user interaction.
 
+
+
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Flex%20Panel%20Gallery)<br>
+    - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/OJapqgb?editors=0010)
 ## Insights
 ```
 Under Construction 🚧
