@@ -13,4 +13,4 @@ Here's the explanation:
 
 4. We add event listeners to each panel element using the `forEach()` method. The first listener listens for the 'click' event and calls the `toggleOpen()` function when triggered. This allows the panels to expand or collapse when clicked by the user. The second listener listens for the 'transitionend' event and calls the `toggleActive()` function when triggered. This ensures that the 'open-active' class is toggled appropriately when the panel finishes its transition.
 
-The code presented above creates an interactive gallery that allows panels to expand and reveal hidden content upon user interaction. By utilizing JavaScript and CSS transitions.****
+The code presented above creates an interactive gallery that allows panels to expand and reveal hidden content upon user interaction. By utilizing JavaScript and CSS transitions.
