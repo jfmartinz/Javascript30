@@ -14,13 +14,15 @@ JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 
 
 Below is a list of the challenges I have completed so far:
 1. **Javascript Drum Kit - Day 1** 🥁<br> 
-Description: Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
+*Description:* Create a virtual drum kit that plays different sounds when corresponding keys are pressed.<br>
 
     -  Solution & Explanation -->  [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Drum%20Kit)<br>
     -  Demo --> [Live demo](https://codepen.io/jfmartinz/pen/NWOEXQW)
 
+--- 
+
 2. **CSS + JS Clock - Day 2** ⏰<br>
-   Description: Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent the time.
+   *Description:* Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent the time.
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
@@ -28,23 +30,24 @@ Description: Create a virtual drum kit that plays different sounds when correspo
 
 
 3. **CSS Variable - Day 3** 📊<br>
-   Description: Create an interactive interface using CSS variables and JavaScript. Utilize JavaScript to capture user input from various elements such as sliders or color pickers and dynamically update CSS variable values. 
+   *Description:* Create an interactive interface using CSS variables and JavaScript. Utilize JavaScript to capture user input from various elements such as sliders or color pickers and dynamically update CSS variable values. 
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/CSS%20Variables)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/wvQGrWy)
 ---
 4. **JS Array Cardio - Day 4** 💪<br>
-   Description: Day 4 introduces functional programming in JavaScript, covering essential functions such as `reduce()`, `map()`, `filter()`, and `sort()`.
+   *Description:* Day 4 introduces functional programming in JavaScript, covering essential functions such as `reduce()`, `map()`, `filter()`, and `sort()`.
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/JavaScript%20Array%20Cardio)<br>
 ---
 5. **Flex Panel Gallery - Day 5** 🖼️<br>
-   Description: Create an interactive gallery with expanding panels using CSS transitions and JavaScript event handling. Clicking on a panel smoothly expands or collapses it, while applying visual effects to enhance user interaction.
-
+   *Description:* Create an interactive gallery with expanding panels using CSS transitions and JavaScript event handling. Clicking on a panel smoothly expands or collapses it, while applying visual effects to enhance user interaction.
 
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Flex%20Panel%20Gallery)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/OJapqgb?editors=0010)
+
+---
 ## Insights
 ```
 Under Construction 🚧
