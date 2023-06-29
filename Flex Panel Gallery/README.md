@@ -1,4 +1,4 @@
-**Day 5: Flex Panel Gallery** 🖼️
+# **Day 5: Flex Panel Gallery** 🖼️
 
 The following code demonstrates how to create a flexible panel gallery where panels expand and reveal hidden content when clicked.
 
