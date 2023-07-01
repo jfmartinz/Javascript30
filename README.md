@@ -6,7 +6,11 @@ JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 
 
 <br>
 
-> 🌟I have included a brief summary of the JavaScript concepts covered on each day in the respective folder. Please refer to the README for a clear and concise explanation of the concepts explored in each day's project.
+```
+🌟 Brief Summary: Coming Soon 💫
+    I will provide explanations for all the challenges from Day 1 to 30 once I have completed them. Currently, only Day 4: Array Cardio has an explanation available.
+
+```
 
 ---
 
@@ -48,6 +52,19 @@ Below is a list of the challenges I have completed so far:
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/OJapqgb?editors=0010)
 
 ---
+6. **Ajax Type Ahead - Day 6** 👀<br>
+   *Description:* Create a basic JavaScript application that allows users to search for and filter cities and states using AJAX. 
+
+
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Ajax%20Type%20Ahead)<br>
+    - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/GRwmGBe)
+
+---
+
+
+
+
+
 ## Insights
 ```
 Under Construction 🚧
