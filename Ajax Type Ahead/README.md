@@ -1,1 +1,1 @@
-# **Ajax Type Ahead** 👀
+# **Day 6: Ajax Type Ahead** 👀
