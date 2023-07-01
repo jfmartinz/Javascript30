@@ -9,7 +9,6 @@ JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 
 ```
 🌟 Brief Summary: Coming Soon 💫
     I will provide explanations for all the challenges from Day 1 to 30 once I have completed them. Currently, only Day 4: Array Cardio has an explanation available.
-
 ```
 
 ---
@@ -26,7 +25,7 @@ Below is a list of the challenges I have completed so far:
 --- 
 
 2. **CSS + JS Clock - Day 2** ⏰<br>
-   *Description:* Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent the time.
+   *Description:* Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent a clock.
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
     - Demo --> [Live demo](https://codepen.io/jfmartinz/pen/mdQJjLe)
