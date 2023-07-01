@@ -6,10 +6,6 @@ JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 
 
 <br>
 
-```
-🌟 Brief Summary: Coming Soon 💫
-    I will provide explanations for all the challenges from Day 1 to 30 once I have completed them. Currently, only Day 4: Array Cardio has an explanation available.
-```
 
 ---
 
