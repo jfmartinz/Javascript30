@@ -4,8 +4,6 @@ This repository contains my solutions to the JavaScript 30 coding challenges by 
 JavaScript 30 is a free coding course created by **Wes Bos**. It consists of 30 days of hands-on coding challenges that cover a wide range of JavaScript topics and techniques. The challenges are designed to be completed within 30 days, with each day dedicated to a new project. 
 <a href="https://javascript30.com" target="_blank">--> Go to the Course</a>
 
-<br>
-
 
 ---
 
