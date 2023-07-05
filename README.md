@@ -56,7 +56,13 @@ Below is a list of the challenges I have completed so far:
 
 ---
 
+7. **JS Array Cardio 2 - Day 7** 💪<br>
+   *Description:* On day 7, Wes Bos reintroduces useful array methods for manipulating data, namely: `some()`, `every()`, `find()`, and the spread syntax (`...`) . 
 
+
+    - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/Javascript30/tree/main/Javascript%20Array%20Cardio%202)<br>
+    
+---
 
 
 
