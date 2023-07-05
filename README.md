@@ -18,7 +18,7 @@ Below is a list of the challenges I have completed so far:
 
 --- 
 
-2. **CSS + JS Clock - Day 2** ⏰<br>
+1. **Javascript Clock - Day 2** ⏰<br>
    *Description:* Create a dynamic clock using JavaScript that displays the current time and updates in real-time. Extract the hour, minute, and second values from the date object and manipulate CSS styles to visually represent a clock.
 
     - Solution & Explanation --> [Go to file](https://github.com/jfmartinz/javascript30/tree/main/Javascript%20Clock)<br>
