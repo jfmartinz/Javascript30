@@ -1,3 +1,3 @@
-# **Day 1: Drum Kit** 🥁
+# **Day 1: Javascript Drum Kit** 🥁
 ## Coming soon 💫
 
