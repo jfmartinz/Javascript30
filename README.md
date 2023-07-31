@@ -64,16 +64,10 @@ Below is a list of the challenges I have completed so far:
 
 
 
-## Insights
-```
-Under Construction 🚧
-```
----
+#### Connect with me 🤝
 
-## Conclusion
-
-```
-Under Construction 🚧
-```
+Twitter: [@jfmartinz](https://twitter.com/jfmartinz)<br>
+LinkedIn: [@jfmartinz](https://www.linkedin.com/in/jfmartinz/)<br>
+Github: [@jfmartinz](https://github.com/jfmartinz)
 
 
